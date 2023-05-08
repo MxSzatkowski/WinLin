@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dhltz1dqp3HIVwiuolBGTMd83NbZ+2vcFZKCB2uaI3Yh5ay+L4tfqa9KtJ6Xt6MfrSQdmn0R/xwNTY2NnXKsAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\Desktop\\WINLIN\\Wraper\\Wrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
